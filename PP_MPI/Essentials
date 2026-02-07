@@ -1,0 +1,13 @@
+sudo apt install openmpi-bin openmpi-common libopenmpi-dev
+sudo apt install g++
+mpicc --version
+mpirun --version
+
+cd /mnt/c/Users/ayonk
+
+mpicc Matrix.c -o matrix
+mpirun -np 4 ./matrix
+
+mpic++ Phonebooksearch.cpp -o p
+mpirun -np 4 ./p phonebook1.txt AISHWARYA
+
