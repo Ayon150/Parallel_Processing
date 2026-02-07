@@ -1,0 +1,27 @@
+[Length: 3] "FATAMA AKTER SONIA","017 61 804" (Match: AMA)
+[Length: 3] "SANGEDA AKTER JUMU","018 72 727" (Match: ANG)
+[Length: 3] "TAMANNA HOSSAIN BRISTE","013 18 233" (Match: AMA)
+[Length: 3] "ZEBIN ZAMAN","016 83 018" (Match: AMA)
+[Length: 3] "PARAMA ISLAM ALIF","014 62 370" (Match: AMA)
+[Length: 3] "TAMANNA BEGUM","011 41 413" (Match: AMA)
+[Length: 3] "PANNA AKTER","014 21 781" (Match: PAN)
+[Length: 3] "MD. KAMAL HOSSEN","012 75 784" (Match: AMA)
+[Length: 3] "MD. MONIRUZZAMAN","012 26 658" (Match: AMA)
+[Length: 3] "PAPRI PANNA","016 28 860" (Match: PAN)
+[Length: 3] "MD. JAMAL UDDIN","011 84 685" (Match: AMA)
+[Length: 3] "TAMANNA JAHAN","016 85 316" (Match: AMA)
+[Length: 3] "TAMANNA AKTER","014 63 561" (Match: AMA)
+[Length: 3] "SAHARA JAMAN CHAITY","011 08 712" (Match: AMA)
+[Length: 3] "SADIA RAHAMAN","013 76 420" (Match: AMA)
+[Length: 3] "AYSHA JAHAN TAMANNA","011 78 244" (Match: AMA)
+[Length: 3] "FATAMA AZMI SUJANA","012 60 831" (Match: AMA)
+[Length: 3] "ABDUR RAHAMAN","018 03 833" (Match: AMA)
+[Length: 3] "PANNA AKTER","011 00 847" (Match: PAN)
+[Length: 3] "MD.HABIBUR RAHAMAN","018 37 146" (Match: AMA)
+[Length: 3] "MASAMMAD TAMANNA","018 85 111" (Match: AMA)
+[Length: 3] "ASFIA ZAMAN JUHI","018 74 776" (Match: AMA)
+[Length: 3] "MD. AMAN ULLAH","017 78 818" (Match: AMA)
+[Length: 3] "MD.JAHANGIR HOSSEN","011 41 558" (Match: ANG)
+[Length: 3] "MEHERUNNESA TAMANNA","013 50 385" (Match: AMA)
+[Length: 3] "LAILATUL TANGUM","016 78 575" (Match: ANG)
+[Length: 3] "PURNIMA JAMAN NIDRA","015 54 613" (Match: AMA)
