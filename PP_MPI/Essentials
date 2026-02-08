@@ -11,3 +11,6 @@ mpirun -np 4 ./matrix
 mpic++ Phonebooksearch.cpp -o p
 mpirun -np 4 ./p phonebook1.txt AISHWARYA
 
+!nvcc -arch=sm_75 search_phonebook.cu -o search_phonebook
+%%writefile search_phonebook.cu
+
